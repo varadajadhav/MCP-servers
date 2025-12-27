@@ -1,0 +1,4 @@
+#import below using pip install
+fastmcp
+feedparser
+requests
